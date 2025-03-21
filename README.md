@@ -15,3 +15,7 @@
 
  ### 3D Understanding
  + MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [[link]](https://arxiv.org/pdf/2503.13111)
+
+ ### Diffusion Policy
+ + Diffusion Policy: Visuomotor Policy Learning via Action Diffusion[[link]](https://arxiv.org/pdf/2303.04137v4)
+ + 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations[[link]](https://3d-diffusion-policy.github.io/)
