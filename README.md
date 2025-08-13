@@ -8,6 +8,7 @@
 
 ### Robot Control
 + Implicit Behavioral Cloning [[link]](https://arxiv.org/pdf/2109.00137)
++ ACT [[link]](https://arxiv.org/pdf/2304.13705)
 
 ### Planning
 + Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[link]](https://arxiv.org/pdf/2204.01691)
